@@ -1,0 +1,3 @@
+/home/gec/p/HyperLPR-master/Prj-Linux/hyperlpr/CMakeFiles/rebuild_cache.dir
+/home/gec/p/HyperLPR-master/Prj-Linux/hyperlpr/CMakeFiles/edit_cache.dir
+/home/gec/p/HyperLPR-master/Prj-Linux/hyperlpr/CMakeFiles/alpr.dir
